@@ -92,7 +92,7 @@ body {
   margin-right: 5px;
 }
 .para5{
-  clear: both;
+  clear: left;
 }
 .image2{
   float: right;
