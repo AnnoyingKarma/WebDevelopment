@@ -70,6 +70,9 @@ Learning Web Development
         17. line-height
         18. border
         19. border-radius
+        20. background
+        21. background-filter
+
 - ### Display and Position Properties
         1. display
         2. list-style
