@@ -19,6 +19,8 @@ Learning Web Development
     11. dl, dt, dd
     12. table, tr, td
     13. b, i
+    14. label
+    15. form
 
 ## Miscellaneous
 

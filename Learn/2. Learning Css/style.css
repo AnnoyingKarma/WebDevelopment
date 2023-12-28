@@ -97,3 +97,27 @@ body {
 .image2{
   float: right;
 }
+.container2{
+  margin-top: 50px;
+  height: 210px;
+  width: 210px;
+  background-color: grey;
+}
+.box5{
+  background-color: red;
+  height: 70px;
+  width: 70px;
+  float: right;
+}
+.box6{
+  background-color: blue;
+  height: 70px;
+  width: 70px;
+  float: left;
+}
+.box7{
+  background-color: yellow;
+  height: 70px;
+  width: 70px;
+  float: right;
+}
