@@ -43,12 +43,14 @@ Learning Web Development
 
         1. px
         2. cm
+        3. fr
 
 - ### Relative length units
         1. em
         2. rem
         3. vh
         5. vw
+        6. %
 
 ## Css Properties
 
@@ -89,6 +91,33 @@ Learning Web Development
         13. float
         14. clear
 
+- ### Flexbox
+        1. display:flex
+        2. flex-direction
+        3. flex-wrap
+        4. flex-flow => flex-direction + flex-wrap
+        5. justify-content
+        6. align-items
+        7. align-content
+        8. align-self
+        9. order
+        10. flex-grow
+        11. flex-shrink
+        12. flex-basis
+        13. flex => flex-grow + flex-shrink + flex-basis
+        
+- ### Grid
+        1.desplay:grid
+        2. gap || row-gap || column-gap
+        3. grid-template-columns
+        4. grid-template-rows
+        
+
 ## Pseudo Classes
 
     1. :hover
+
+## Functions
+
+- ### Grid functions
+        1. repeat()
