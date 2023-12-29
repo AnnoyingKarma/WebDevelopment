@@ -96,22 +96,29 @@ Learning Web Development
         2. flex-direction
         3. flex-wrap
         4. flex-flow => flex-direction + flex-wrap
-        5. justify-content
-        6. align-items
-        7. align-content
-        8. align-self
-        9. order
-        10. flex-grow
-        11. flex-shrink
-        12. flex-basis
-        13. flex => flex-grow + flex-shrink + flex-basis
-        
+        5. flex => flex-grow + flex-shrink + flex-basis
+        6. flex-grow
+        7. flex-shrink
+        8. flex-basis
+
 - ### Grid
-        1.desplay:grid
-        2. gap || row-gap || column-gap
-        3. grid-template-columns
-        4. grid-template-rows
+        1. display:grid
+        2. grid-template-columns
+        3. grid-template-rows
+        4. grid-column => grid-column-start + grid-column-end
+        5. grid-row => grid-row-start + grid-row-end
+        6. grid-area => grid-row + grid column
+        7. grid-template-areas
         
+- ### Properties used by Flexbox and Grid
+        1. gap => row-gap + column-gap
+        2. justify-content
+        3. align-items
+        4. justify-items
+        5. align-content
+        6. order
+        7. align-self
+        8. justify-self
 
 ## Pseudo Classes
 
