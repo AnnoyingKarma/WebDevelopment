@@ -90,6 +90,7 @@ Learning Web Development
         12. overflow
         13. float
         14. clear
+        15. vertical-align
 
 - ### Flexbox
         1. display:flex
@@ -126,6 +127,19 @@ Learning Web Development
 ## Pseudo Classes
 
     1. :hover
+    2. :link
+    3. :active
+    4. :visited
+    5. :first-child
+    6. :last-child
+    7. :nth-child
+
+## Pseudo Elemenets
+    1. ::first-letter
+    2. ::selection
+    3. ::first-line
+    4. ::before
+    5. ::after
 
 ## Functions
 
