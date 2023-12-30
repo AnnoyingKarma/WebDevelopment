@@ -120,6 +120,9 @@ Learning Web Development
         7. align-self
         8. justify-self
 
+- ### Media Queries
+        1. @media
+
 ## Pseudo Classes
 
     1. :hover
