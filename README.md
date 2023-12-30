@@ -124,6 +124,21 @@ Learning Web Development
 - ### Media Queries
         1. @media
 
+- ### Transform Properties
+        1. transform:
+        2. scale => scaleX + scaleY || scaleZ
+        3. skew
+        4. translate
+        5. rotate
+
+- ### Transform-origin Properties
+        1. transform-origin: 
+        2. left
+        3. center
+        4. right 
+        5. length
+        6. %
+
 ## Pseudo Classes
 
     1. :hover
@@ -135,6 +150,7 @@ Learning Web Development
     7. :nth-child
 
 ## Pseudo Elemenets
+
     1. ::first-letter
     2. ::selection
     3. ::first-line
