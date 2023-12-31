@@ -139,6 +139,13 @@ Learning Web Development
         5. length
         6. %
 
+- ### Transition Properties
+        1. transition-delay
+        2. transition-duration
+        3. transition-property
+        4. transition-timing-function
+        5. transition => every transition property
+
 ## Pseudo Classes
 
     1. :hover
