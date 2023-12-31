@@ -146,6 +146,16 @@ Learning Web Development
         4. transition-timing-function
         5. transition => every transition property
 
+- ### Animation properties
+        1. @keyframes
+        2. animation-name
+        3. animation-duration
+        4. animation-delay
+        5. animation-iteration-count
+        6. animation-direction
+        7. animation-timing-function
+        8. animaiton-fill-mode
+
 ## Pseudo Classes
 
     1. :hover
