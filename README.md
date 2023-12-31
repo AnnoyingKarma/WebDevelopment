@@ -181,3 +181,14 @@ Learning Web Development
 
 # Javasript
 
+## Data Types
+     1. String
+     2. Number
+     3. Boolean
+     4. Undefined
+     5. Object
+
+## Javascript Type Conversion
+      1. Number()
+      2. String()
+      3. Boolean()
