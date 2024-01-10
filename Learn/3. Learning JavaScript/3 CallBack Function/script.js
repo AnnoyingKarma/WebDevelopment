@@ -12,13 +12,21 @@ const result = calculate(arr[5], arr[3], addition);
 
 console.log(result);
 
-const val3 = (num) => {
-    return num==3;
-}
+const random = (num) => {
+  return num > 5;
+};
 
-const valChck=val3(find(arr));
+const valChck = arr.find(random);
 
 console.log(valChck);
+
+const getIndx = (val) => {
+  return val == 3;
+};
+
+const sol = arr.findIndex(getIndx);
+
+console.log(sol);
 
 // Array call back functions
 // find()
